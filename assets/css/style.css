@@ -1,0 +1,49 @@
+
+nav {
+    background-color: lightseagreen;
+    
+}
+
+body{
+    background-image: url(../imagenes/fondooo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.fondo {
+    background-color: beige;
+
+}
+
+.resumenn {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.firsts {
+    text-align: center;
+}
+
+.row p {
+text-align: justify;
+}
+
+.experience {
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: center;
+}
+
+.infogen {
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: lightseagreen;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
